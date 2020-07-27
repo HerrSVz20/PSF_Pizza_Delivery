@@ -3,8 +3,8 @@
 ___
 <center>
 [<img src=".PizzasDelivery.png" width="250"/>](\.PizzasDelivery.png)
-</center>
 ___
+</center>
  ###      Proyecto Socioformativo
               "Pizzas Delivery"    
 ___
