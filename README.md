@@ -2,9 +2,11 @@
 # PSF\_**ProgIV**
 ___
 <center>
-[<img src=".PizzasDelivery.png" width="250"/>](\.PizzasDelivery.png)
-___
+[<img src=".PizzasDelivery.png" width="250"/>](/.PizzasDelivery.png)
+---
 </center>
+___
+
  ###      Proyecto Socioformativo
               "Pizzas Delivery"    
 ___
