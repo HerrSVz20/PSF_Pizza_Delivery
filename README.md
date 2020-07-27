@@ -6,9 +6,9 @@
 
 <center>
 <img src=".PizzasDelivery.png" width="250"/>(/.PizzasDelivery.png)
----
-</center>
 
+</center>
+___
 <center>
 
 ### Proyecto Socioformativo
