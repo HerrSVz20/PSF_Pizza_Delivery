@@ -3,7 +3,6 @@
 ___
 <center>
 [<img src=".PizzasDelivery.png" width="250"/>](/.PizzasDelivery.png)
----
 </center>
 ___
 
