@@ -1,8 +1,6 @@
 # PSF_Pizza_Delivery
 # PSF\_**ProgIV**
 ___
-# "**Pizzas Delivery**"
-
 [<img src=".PizzasDelivery.png" width="250"/>](\.PizzasDelivery.png)
 ___
  ###      Proyecto Socioformativo
