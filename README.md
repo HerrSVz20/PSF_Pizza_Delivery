@@ -3,7 +3,7 @@
 ___
 # "**Pizzas Delivery**"
 
-![Pizzas](\.PizzasDelivery.png width="80")
+![Pizzas](width="80"\.PizzasDelivery.png )
 ___
  ###      Proyecto Socioformativo
               "Pizzas Delivery"    
