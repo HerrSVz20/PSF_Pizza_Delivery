@@ -5,7 +5,7 @@
 # "**Pizzas Delivery**"
 
 <center>
-[<img src=".PizzasDelivery.png" width="250"/>](/.PizzasDelivery.png)
+<img src=".PizzasDelivery.png" width="250"/>(/.PizzasDelivery.png)
 ---
 </center>
 
